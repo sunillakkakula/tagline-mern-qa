@@ -38,7 +38,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### CREATE .env file with below Configruation:
 ### NODE_ENV = development
 ### PORT = 5000
-### MONGO_URI = mongodb+srv://slakkakula:Charan6571@cluster0.sm0nw.mongodb.net/tagline_dev_db
+### MONGO_URI = mongodb+srv://####:####@cluster0.sm0nw.mongodb.net/tagline_qa_db
 
 ### Navigate to tagline-mern-qa and run the below Command
 ### `npm run dev` runs Server app and client app Concurrently
